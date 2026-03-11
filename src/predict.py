@@ -24,4 +24,4 @@ def predict(image_path):
     print("Confidence:",np.max(prediction))
 
 
-predict("dataset/Rice_Image_Dataset/Basmati/basmati (14).jpg")
+predict("test.jpeg")
